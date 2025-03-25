@@ -1,1 +1,1 @@
-![alt text](https://github.com/tomkccheng/rt-card/blob/main/card.ppm?raw=true)
+![alt text](https://github.com/tomkccheng/rt-card/blob/main/card.png?raw=true)
